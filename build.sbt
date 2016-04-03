@@ -15,4 +15,4 @@ EclipseKeys.projectFlavor := EclipseProjectFlavor.Java
 libraryDependencies ++= Seq( 
     "junit" % "junit" % "4.10",
     "com.novocode" % "junit-interface" % "0.10-M1" % "test"
-    )
+)
