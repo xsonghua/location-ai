@@ -1,4 +1,4 @@
-organization := "com.oracle"
+organization := "com.tofu-house"
 
 name := "location-ai"
 
